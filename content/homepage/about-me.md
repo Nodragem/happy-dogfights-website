@@ -5,5 +5,5 @@ header_menu: false
 ---
 
 
-Nodragem Games is a one man studio. 
-![Geoffrey Mégardon](images/portrait2.jpg)
+<img class="portrait" src="images/portrait2.jpg" />
+Nodragem Games is a one man studio located in Wales. You can find more about me on [Nodragem Games' Website](https://nodragem.github.io/Blog/).

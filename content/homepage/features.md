@@ -1,17 +1,41 @@
 ---
-title: "Game Modes"
+title: "About the Game"
 weight: 2
 header_menu: false
 ---
 
-## Death Bomb Mode
+#### Easy to pick up ...
 
-In Death Bomb mode, you will be playing a "N rounds to win last man standing" where:
+The last prabbit flying win the round!
+<img class="screenshot" src="images/lastman_tutorial01.gif"/>
 
-Bombs can be used to eliminate your opponents for a round.
+Eliminate your opponents from the **next round** with bombs:
+<img class="screenshot" src="images/bombelimin_tutorial00.gif"/>
 
-Barrel-rolls makes you invulnerable for 1 sec and can be used to steal bombs.
-![Stealing Bombs](images/catchbomb1.gif)
+Will you claim a **Smashing Victory** by eliminating all your oponent?
+<img class="screenshot" src="images/smashing_tutorial10.gif"/>
 
-While bullets can be used for, well, dealing damage!
+Or will you claim an **Unexpected Victory** from the loser bench as your opponents eliminate each other?
+<img class="screenshot" src="images/lucky_tutorial11.gif"/>
+
+#### Hard to master ...
+No coin, no shot, collect coins to buy ammunitions:
+<img class="screenshot" src="images/collectcoins_tutorial4b.gif"/>
+
+Steal bombs when you make a barrel-roll:
+<img class="screenshot" src="images/barrelroll_tutorial3b.gif"/>
+
+Proceed to **surgical elimination** with the remote detonator:
+<img class="screenshot" src="images/detonator_tutorial5.gif"/>
+
+All player starts pretty vulnerable, aim for more health as soon as possible:
+<img class="screenshot" src="images/heart_tutorial12.gif"/>
+
+You noticed that folk with the Crown? They are your best ennemy, eliminate them!
+<img class="screenshot" src="images/crown_tutorial8.gif"/>
+
+
+
+
+
 
