@@ -25,7 +25,7 @@ title = "The Prabbits: Happy Dogfights!"
     copyright = "© Geoffrey Mégardon"
 
     # The "description" of your website. This is used in the meta data of your generated html.
-    description = "Official website of the video game The Prabbits: Happy Dogfights! from Nodragem Games"
+    description = "Official website of The Prabbits: Happy Dogfights! from Nodragem Games"
 
     # The path to your "favicon". This should be a square (at least 32px x 32px) png-file.
     favicon = "images/favicon.png"
@@ -35,7 +35,7 @@ title = "The Prabbits: Happy Dogfights!"
     # services like Twitter or Slack want to generate a preview of a link to your site.
     # See https://gohugo.io/templates/internal#twitter-cards and
     # https://gohugo.io/templates/internal#open-graph.
-    images = ["images/cover-image.jpg"]
+    images = ["images/Thumbnail.jpg"]
 
     # Another "title" :-). This one is used as the site_name on the Hugo's internal
     # opengraph structured data template.
